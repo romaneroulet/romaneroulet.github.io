@@ -1,0 +1,97 @@
+<head>
+  
+  <link rel="stylesheet" href="style.css">
+
+.span-brown {color:brown;}
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #F3B6A5;
+}
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.link {
+  margin: 10px 30px;
+  color: white;
+}
+
+.link:hover {
+  color: white;
+}
+
+
+body{
+ 	font-family:'Dosis', sans-serif;
+ }
+
+ h1 {
+  color: white;
+  font-size: 32px;
+  font-family: 'Codystar', cursive;
+}
+
+.cadre {
+ background: #F3B6A5;
+ border: 2px ;
+  margin: 10px 430px;
+  padding: 5px 10px;
+  border-radius: 4px;
+  box-shadow: 3px 3px 5px #F3B6A5;
+}
+
+
+h2 {
+  color: #481709;
+  font-size: 25px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h3 {
+  color: #7E2810;
+  font-size: 25px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h4 {
+  color: #C73F1A;
+  font-size: 25px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h5 {
+  color: #E86C4A;
+  font-size: 25px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h6 {
+  color: #F3B6A5;
+  font-size: 25px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+body {
+
+  background: #FDF1ED;
+  font-family: arial;
+  text-align: center;
+}
+
+ul, ol {
+  font-size: 15px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+p {
+  font-size: 17px;
+  font-family: 'Quicksand', sans-serif;;
+}
+
+</head>
