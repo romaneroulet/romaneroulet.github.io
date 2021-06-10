@@ -5,7 +5,7 @@
 .span-brown {color:brown;}
 
 
-.navbar {
+.my-navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -26,6 +26,30 @@
   color: white;
 }
 
+.line-transparent {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.line-light {
+  height: 10px;
+  width: 30%;
+  background: #E86C4A;
+}
+
+.line-medium {
+  height: 10px;
+  width: 30%;
+  background: #C73F1A;
+}
+
+.line-hard {
+  height: 10px;
+  width: 30%;
+  background: #7E2810;
+}
 
 body{
  	font-family:'Dosis', sans-serif;
@@ -77,6 +101,21 @@ h6 {
   font-family: 'Quicksand', sans-serif;
 }
 
+
+<div class="titre-7"> {
+  color: black;
+  font-size: 30px;
+  font-family: 'Nunito', sans-serif;;
+}
+
+
+.frame-valise {
+  border: 2px ;
+  margin: 10px 430px;
+  padding: 5px 10px;
+}
+
+
 body {
 
   background: #FDF1ED;
@@ -93,5 +132,7 @@ p {
   font-size: 17px;
   font-family: 'Quicksand', sans-serif;;
 }
+
+
 
 </head>
